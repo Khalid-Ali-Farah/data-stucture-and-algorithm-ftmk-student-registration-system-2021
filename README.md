@@ -82,14 +82,18 @@ Follow the prompts to perform the desired operations.
 
 ## Screenshots
 
-![Main Menu](https://github.com/Khalid-Ali-Farah/data-stucture-and-algorithm-ftmk-student-registration-system-2021/blob/e9a7c2cbacfc94f0338e9e4cda34a40500214b15/FTMK%20Student%20Registration%20System/images/Main.png)
 *Main Menu*
 
-![Insert Student](https://github.com/Khalid-Ali-Farah/data-stucture-and-algorithm-ftmk-student-registration-system-2021/blob/3af0f536aa86aa26344908ec6bea01d64183ae78/FTMK%20Student%20Registration%20System/images/Insert.png)
+![Main Menu](https://github.com/Khalid-Ali-Farah/data-stucture-and-algorithm-ftmk-student-registration-system-2021/blob/e9a7c2cbacfc94f0338e9e4cda34a40500214b15/FTMK%20Student%20Registration%20System/images/Main.png)
+
 *Insert Student*
 
-![Display Records](https://github.com/Khalid-Ali-Farah/data-stucture-and-algorithm-ftmk-student-registration-system-2021/blob/e9a7c2cbacfc94f0338e9e4cda34a40500214b15/FTMK%20Student%20Registration%20System/images/Display-Records.png)
+![Insert Student](https://github.com/Khalid-Ali-Farah/data-stucture-and-algorithm-ftmk-student-registration-system-2021/blob/3af0f536aa86aa26344908ec6bea01d64183ae78/FTMK%20Student%20Registration%20System/images/Insert.png)
+
 *Display Records*
+
+![Display Records](https://github.com/Khalid-Ali-Farah/data-stucture-and-algorithm-ftmk-student-registration-system-2021/blob/e9a7c2cbacfc94f0338e9e4cda34a40500214b15/FTMK%20Student%20Registration%20System/images/Display-Records.png)
+
 
 # Team members
 
@@ -102,6 +106,6 @@ bin mohd Shamsudi** - b032110172
 
 ## Course
 
-- **BITS**
+- **DATA STRUCTURE AND ALGORITHM BITP1123**
 
 
