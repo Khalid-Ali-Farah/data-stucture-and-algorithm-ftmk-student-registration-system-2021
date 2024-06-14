@@ -91,14 +91,13 @@ Follow the prompts to perform the desired operations.
 ![Display Records](screenshots/display_records.png)
 *Display Records*
 
-# Team Members
+# Team members
 
-- **Khalid Ali Farah** - B032020051
-- **MUHAMMAD SHAHRIZAD BIN MOHD SHAMSUDI
-BIN MOHD SHAMSUDI** - B032110172
-- **MUHAMMAD HUSNAYAN BIN KHALID** - B032110218
-
-- **MOHAMMED SADEQ NOMAN** - B031910498
+- **Khalid Ali Farah** - b032020051
+- **Muhammad Shahrizad bin Bohd Shamsudi
+bin mohd Shamsudi** - b032110172
+- **Muhammad Husnayan Bin Khalid** - b032110218
+- **Mohammed Sadeq Noman** - b031910498
 
 
 ## Course
