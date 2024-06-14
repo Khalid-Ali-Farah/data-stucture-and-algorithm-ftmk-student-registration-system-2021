@@ -82,10 +82,10 @@ Follow the prompts to perform the desired operations.
 
 ## Screenshots
 
-![Main Menu]([screenshots/main_menu.png](https://github.com/Khalid-Ali-Farah/data-stucture-and-algorithm-ftmk-student-registration-system-2021/blob/268ccf0ba67dcbf3116aaf7c0601f4352751b3fa/FTMK%20Student%20Registration%20System/images/Main.png))
+![Main Menu](FTMK Student Registration System/images/Main.png)
 *Main Menu*
 
-![Insert Student](screenshots/insert_student.png)
+![Insert Student](FTMK Student Registration System/images/Insert.png)
 *Insert Student*
 
 ![Display Records](screenshots/display_records.png)
