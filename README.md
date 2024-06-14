@@ -82,13 +82,13 @@ Follow the prompts to perform the desired operations.
 
 ## Screenshots
 
-![Main Menu](FTMK Student Registration System/images/Main.png)
+![Main Menu](https://github.com/Khalid-Ali-Farah/data-stucture-and-algorithm-ftmk-student-registration-system-2021/blob/e9a7c2cbacfc94f0338e9e4cda34a40500214b15/FTMK%20Student%20Registration%20System/images/Main.png)
 *Main Menu*
 
-![Insert Student](FTMK Student Registration System/images/Insert.png)
+![Insert Student](https://github.com/Khalid-Ali-Farah/data-stucture-and-algorithm-ftmk-student-registration-system-2021/blob/3af0f536aa86aa26344908ec6bea01d64183ae78/FTMK%20Student%20Registration%20System/images/Insert.png)
 *Insert Student*
 
-![Display Records](screenshots/display_records.png)
+![Display Records](https://github.com/Khalid-Ali-Farah/data-stucture-and-algorithm-ftmk-student-registration-system-2021/blob/e9a7c2cbacfc94f0338e9e4cda34a40500214b15/FTMK%20Student%20Registration%20System/images/Display-Records.png)
 *Display Records*
 
 # Team members
